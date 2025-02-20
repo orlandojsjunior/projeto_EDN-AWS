@@ -1,6 +1,8 @@
 
 # [Projeto de implantação de um site de e-commerce da loja de informática usando **AWS (Amazon Web Services)**.](https://github.com/orlandojsjunior/projeto_EDN-AWS/blob/main/Projeto%20Grupo%208%20-%20EDN.docx)
 
+[AWS re/Start](https://aws.amazon.com/pt/training/restart/)
+
 Abaixo estão os serviços e sua aplicação no projeto:
 
 ---
