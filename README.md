@@ -1,5 +1,5 @@
 
-#Implantação de um site de e-commerce da loja de informática usando **AWS (Amazon Web Services)**. 
+# Implantação de um site de e-commerce da loja de informática usando **AWS (Amazon Web Services)**. 
 
 Abaixo estão os serviços e sua aplicação no projeto:
 
