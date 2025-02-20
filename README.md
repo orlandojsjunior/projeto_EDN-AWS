@@ -69,9 +69,6 @@ Abaixo estão os serviços e sua aplicação no projeto:
 - **AWS CloudFormation**  
   - **Função**: Modelar a infraestrutura como código (IaC) para replicação rápida de ambientes.  
 
-- **AWS CodePipeline/CodeDeploy**  
-  - **Função**: Pipeline de CI/CD para automatizar deploys e testes.  
-
 ---
 
 #### **6. Monitoramento**
